@@ -1,4 +1,3 @@
 #!/bin/bash/
 
-python3 cmc_api_to_tradingview.py &
-python3 lunarcrush2.py &
+python3 cmc_breakout.py &
