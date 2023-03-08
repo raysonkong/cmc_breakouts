@@ -79,7 +79,7 @@ response = session.get(url, params=parameters)
 #pprint.pprint(json.loads(response.text)['data'][0]["symbol"])
 parsed_response = response.json()['data']
 
-print(parsed_response)
+#print(parsed_response)
 
 ##======================================= ## 
 ## Select Breakout Coins ### 
